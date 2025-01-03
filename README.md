@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@mayank-malviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mayank-malviya" height="30" width="40" /></a>
+<a href="https://codepen.io/mayankmalviya08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mayankmalviya08" height="30" width="40" /></a>
 <a href="https://dev.to/mayankmalviya08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mayankmalviya08" height="30" width="40" /></a>
 <a href="https://twitter.com/princemynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princemynk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank malviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank malviya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mayank malviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayank malviya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mayankmalviya08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayankmalviya08" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mmgurjar9514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mmgurjar9514" height="30" width="40" /></a>
 <a href="https://fb.com/prince mynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince mynk" height="30" width="40" /></a>
 <a href="https://instagram.com/it.s_prince__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it.s_prince__" height="30" width="40" /></a>
